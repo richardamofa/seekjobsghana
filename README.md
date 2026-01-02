@@ -1,2 +1,3 @@
 # seekjobsghana
-Seek Jobs Ghana prop
+Seek Jobs Ghana PoC
+
